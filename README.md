@@ -4,7 +4,7 @@ Spinning up decentralized systems, token economies, and zero-knowledge interface
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyros-tsourdinis/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ktsourdi)
-[![Website](https://img.shields.io/badge/Website-ktsourdi.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ktsourdi.com)
+[![KTSOURDI.COM](https://img.shields.io/badge/KTSOURDI.COM-8E44AD?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ktsourdi.com)
 
 ---
 
