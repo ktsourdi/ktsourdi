@@ -43,8 +43,12 @@ With experience across Ethereum, Solana, and Hyperledger ecosystems, I deliver s
 ## 🔥 Featured Projects
 
 ### 🎯 [ZeroScope.xyz](https://zeroscope.xyz)
-*Founder & Lead Developer* (2025–now)  
+*Founder & Lead Developer* (2025–present)  
 A cross-platform app that monitors Twitter and snipes Solana tokens on launch. Built with Solana SDK, MongoDB, Node.js, and CI/CD.
+
+### [StateOfBlock](https://stateofblock.xyz)
+*Co-Founder and Blockchain Developer (2025-present)
+On-chain real-estate tokenisation: bonding-curve sales, auctions, and P2P order-book trading.
 
 ### 🎰 Magic Number Lottery (2024)
 *Lead Blockchain Developer*  
