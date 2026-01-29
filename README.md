@@ -21,10 +21,8 @@ With experience across Ethereum, Solana, and Hyperledger ecosystems, I deliver s
 **🟣 Senior Solana Rust Engineer — SBARTER**  
 📍 *Dec 2025 – Present*  
 - Design, develop, and deploy high-performance Solana programs in Rust  
-- Implement core components of the Sbarter decentralised protocol with a focus on robustness, efficiency, and compliance  
-- Contribute to protocol architecture (security, integrity, scalability)  
-- Troubleshoot, debug, and optimise existing Solana programs and supporting infrastructure  
-- Maintain strong security and code quality through cryptography/security best practices, audits, and code reviews  
+- Implement core components of the Sbarter decentralised protocol
+- Contribute to protocol architecture
 - Improve CI/CD for smart contract deployment/testing and maintain technical documentation  
 
 **🔷 Blockchain Developer / Researcher — SIDROCO HOLDINGS LTD**  
