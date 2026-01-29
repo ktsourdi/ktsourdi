@@ -10,13 +10,22 @@ Spinning up decentralized systems, token economies, and zero-knowledge interface
 
 ## 🌟 About Me
 
-I'm a full-stack blockchain developer from Thessaloniki, Greece 🇬🇷, passionate about decentralized protocols, smart contract security, and building powerful tools that empower users and developers alike.
+I'm a full-stack blockchain developer from Thessaloniki, Greece 🇬🇷, passionate about decentralized protocols, smart contract security, and building powerful tools that empower users and developers.
 
 With experience across Ethereum, Solana, and Hyperledger ecosystems, I deliver secure and scalable systems using Solidity, Move, Rust, and Go.
 
 ---
 
 ## 💼 Experience
+
+**🟣 Senior Solana Rust Engineer — SBARTER**  
+📍 *Dec 2025 – Present*  
+- Design, develop, and deploy high-performance Solana programs in Rust  
+- Implement core components of the Sbarter decentralised protocol with a focus on robustness, efficiency, and compliance  
+- Contribute to protocol architecture (security, integrity, scalability)  
+- Troubleshoot, debug, and optimise existing Solana programs and supporting infrastructure  
+- Maintain strong security and code quality through cryptography/security best practices, audits, and code reviews  
+- Improve CI/CD for smart contract deployment/testing and maintain technical documentation  
 
 **🔷 Blockchain Developer / Researcher — SIDROCO HOLDINGS LTD**  
 📍 *Sept 2023 – Present*  
