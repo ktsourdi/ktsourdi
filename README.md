@@ -26,7 +26,7 @@ With experience across Ethereum, Solana, and Hyperledger ecosystems, I deliver s
 - Improve CI/CD for smart contract deployment/testing and maintain technical documentation  
 
 **🔷 Blockchain Developer / Researcher — SIDROCO HOLDINGS LTD**  
-📍 *Sept 2023 – Present*  
+📍 *Sept 2023 – Dec 2025*  
 - Built smart contracts and dApps (Solidity, Move, Rust, Go)  
 - Developed private blockchain solutions (Hyperledger)  
 - R&D for Horizon Europe / H2020 blockchain projects  
